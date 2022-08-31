@@ -12,11 +12,11 @@
 
 - 💬 &nbsp;Ask me anything about **JavaScript, React, TypeScript, Next JS, Bootstrap, Tailwind, Redux, Ant.Design, MUI**
 
-- 📫 &nbsp;How to reach me **mdbinshahed5@gmail.com** [Preferrable]
+- 📬 &nbsp;How to reach me **mdbinshahed5@gmail.com** [Preferrable]
 
-- 📫 &nbsp;Urgent Contact **+8801624028821** [Not Preferrable in Normal Case]
+- 📲 &nbsp;Urgent Contact **+8801624028821** [Not Preferrable in Normal Case]
 
-- ⚡ &nbsp;Fun fact **I love traveling...:P**
+- ⚡ &nbsp;Fun fact **I love traveling...✈️**
 
 - 🔥 &nbsp;My Greatest Power - **I can learn stuffs very quickly & implement on demand !**
 
