@@ -24,3 +24,8 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=binshahed&show_icons=true&locale=en&layout=compact&theme=radical" alt="binshahed" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binshahed&show_icons=true&locale=en&theme=radical" alt="binshahed" /></p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left"><a href="mailto:mdbinshahed5@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="Mohammad Bin Shahed" height="40" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/binshahed/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Mohammad Bin Shahed" height="40" width="40" /></a> <a href="https://www.facebook.com/BINSHAHED/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Mohammad Bin Shahed" height="40" width="40" /></a> </p>
+<br />
