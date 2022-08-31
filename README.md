@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mohammad Bin Shahed</h1>
 
 <h5 align="center">A passionate web/app developer who writes stuff with JavaScript, TypeScript, React, Redux, Next.js, MUI, Ant design, Bootstrap, Tailwind CSS and more...</h5>
+
 - 🔭  &nbsp; I’m currently working at **[Strativ](https://strativ.se/).**
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript** and **Tailwind CSS**
