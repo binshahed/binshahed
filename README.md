@@ -3,9 +3,7 @@
 <h5 align="center">A passionate web/app developer who writes stuff with JavaScript, TypeScript, React, Redux, Next.js, MUI, Ant design, Bootstrap, Tailwind CSS and more...</h5>
 
 
-- ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript** and **Tailwind CSS**
-
-- ⭆ &nbsp; I’m currently learning **Node JS**, **Docker**, **Express JS**
+- ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Tailwind CSS**, **Node JS**,  **Express JS**, **MongoDB**
 
 - 👨‍💻 &nbsp; Some of my projects are available at [https://github.com/binshahed?tab=repositories](https://github.com/binshahed?tab=repositories)
 
