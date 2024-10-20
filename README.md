@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/binshahed/binshahed/refs/heads/main/wall-wallpaper-concrete-colored-painted-textured-concept.jpg"  />
+<p><a href="https://www.x.com/binshahed"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/binshahed"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/binshahed/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
+
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Tailwind CSS**, **Node JS**,  **Express JS**, **MongoDB**
 
