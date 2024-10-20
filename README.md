@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mohammad Bin Shahed</h1>
-
-<h5 align="center">A passionate web/app developer who writes stuff with JavaScript, TypeScript, React, Redux, Next.js, MUI, Ant design, Bootstrap, Tailwind CSS and more...</h5>
-
+<img src="https://raw.githubusercontent.com/binshahed/binshahed/refs/heads/main/wall-wallpaper-concrete-colored-painted-textured-concept.jpg"  />
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Tailwind CSS**, **Node JS**,  **Express JS**, **MongoDB**
 
