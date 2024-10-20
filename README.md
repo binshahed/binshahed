@@ -5,7 +5,7 @@
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Tailwind CSS**, **Node JS**,  **Express JS**, **MongoDB**
 
-- 👨‍💻 &nbsp; Some of my projects are available at [https://github.com/binshahed?tab=repositories](https://github.com/binshahed?tab=repositories)
+- 👨‍💻 &nbsp; Take a look at my projects showcased on [my portfolio.](https://binshahed-portfolio.vercel.app/)
 
 - 💬 &nbsp;Ask me anything about **JavaScript, React, TypeScript, Next JS, Bootstrap, Tailwind, Redux, Ant.Design, MUI**
 
