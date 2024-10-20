@@ -10,7 +10,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="max-width: 60px"/>
+  <img src="https://raw.githubusercontent.com/binshahed/binshahed/refs/heads/main/ts.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
@@ -25,6 +25,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
+
 
 
 - ✎ &nbsp; I’m currently working with **Javascript**, **React**, **Redux**, **Next JS**, **Typescript**, **Tailwind CSS**, **Node JS**,  **Express JS**, **MongoDB**
